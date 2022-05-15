@@ -1,0 +1,17 @@
+# data
+*train_dials*.json
+*dev_dials*.json
+*test_dials*.json
+
+# pretrained_models
+/pretrained_models/albert_large/*
+!/pretrained_models/albert_large/README.md
+
+# saved_models
+/saved_models/*
+!saved_models/README.md
+
+# other files
+*.DS_Store
+*.idea
+__pycache__

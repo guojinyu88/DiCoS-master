@@ -1,0 +1,63 @@
+[
+    {
+        "service_name": "restaurant",
+        "slots": [
+            {
+                "name": "category",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "date",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "location",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "meal",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "num_people",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "price_range",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "rating",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "restaurant_name",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "time",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            }
+        ],
+        "description": "unknown",
+        "intents": []
+    }
+]

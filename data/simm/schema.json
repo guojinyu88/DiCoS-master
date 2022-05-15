@@ -1,0 +1,39 @@
+[
+    {
+        "service_name": "movie",
+        "slots": [
+            {
+                "name": "date",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "movie",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "num_tickets",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "theatre_name",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            },
+            {
+                "name": "time",
+                "description": "unknown",
+                "possible_values": [],
+                "is_categorical": false
+            }
+        ],
+        "description": "unknown",
+        "intents": []
+    }
+]

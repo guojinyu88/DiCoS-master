@@ -1,0 +1,17 @@
+python3 train.py \
+--do_train \
+--output_dir saved_models \
+--save_dir saved_models \
+--load_test_op_data_path cls_score_test_state_update_predictor_output.json \
+--model_name_or_path pretrained_models/albert_large/ \
+--n_epochs 30 \
+--data_root data/mwz2.2/ \
+--train_data train_dials.json \
+--dev_data test_dials.json \
+--test_data test_dials.json \
+--ontology_data schema.json \
+--enc_lr 2e-5 \
+--base_lr 1e-3 \
+--turn 2 \
+--n_history 1 \
+--eval_step 10000
