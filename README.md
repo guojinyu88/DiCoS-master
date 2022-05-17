@@ -128,5 +128,18 @@ If you have any questions, you can contact Jinyu Guo(guojinyu@bupt.edu.cn), Jiji
 ## Citation
 
 ```
-coming soon
+@inproceedings{guo-etal-2022-beyond,
+    title = "Beyond the Granularity: Multi-Perspective Dialogue Collaborative Selection for Dialogue State Tracking",
+    author = "Guo, Jinyu  and
+      Shuang, Kai  and
+      Li, Jijie  and
+      Wang, Zihan  and
+      Liu, Yixuan",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.165",
+    pages = "2320--2332",
 ```
