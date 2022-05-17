@@ -117,6 +117,8 @@ To reproduce the performance as we report in the paper, you can download the tra
 sh eval_model.sh 
 ```
 
+## hint
+The process of dialogue selection is a discrete process, so we multiply the score of the selected dialogue by the representation of the selected dialogue to ensure the integrality of calculation graph
 
 ## Contact
 
