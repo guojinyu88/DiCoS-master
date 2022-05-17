@@ -3,7 +3,7 @@ DiCoS-DST
 
 This paper/code introduces the **Beyond the Granularity: Multi-Perspective Dialogue Collaborative Selection for Dialogue State Tracking(DiCoS-DST)**
 
-You can find the paper [here]()
+You can find the paper [here](https://aclanthology.org/2022.acl-long.165/)
 
 See below for an overview of the model architecture:
 
